@@ -1,0 +1,5 @@
+Bonjour,
+
+Si le fichier contient très peu de caractères (<12), une erreur apparaîtra disant que vous avez entré une mauvaise clé.
+Le padding ne marche-t-il pas dans ce cas ?
+
